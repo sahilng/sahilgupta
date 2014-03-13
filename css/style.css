@@ -1,0 +1,81 @@
+body{
+	font-family: "Neue Helvetica","Helvetica";
+	background-color: rgb(46,104,166);
+	color: rgb(232,233,232);
+}
+
+.img-circular{
+ margin-top:30px;
+ width: 100px;
+ height: 100px;
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+}
+
+#name{
+	color: rgb(232,233,232);
+	font-weight:500;
+}
+
+.right{
+	float:right;
+}
+
+.left{
+	float:left;
+}
+
+.inline{
+	display: inline-block;
+}
+
+#tagline{
+	color: #272626;
+	font-size:large;
+}
+
+#blurb{
+	margin-top:50px;
+	margin-left: 30px;
+}
+
+#social{
+	margin-top:70px;
+	float:left;
+	margin-right:0;
+}
+
+#links{
+	float:right;
+	margin-right:50px;
+}
+
+#links a{
+	opacity: .8;
+	padding:0px 4px 0px 0px;
+}
+
+#links a:hover{
+	opacity: 1;
+}
+
+#head{
+	background-color: rgb(58,63,67);
+	height:200px;
+}
+
+#intro{
+	background-color: rgb(36,39,49);
+	height:250px;
+}
+
+#projects{
+	height:500px;
+}
+
+#hello{
+	font-size: 20px;
+}
