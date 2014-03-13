@@ -20,6 +20,10 @@ body{
 	font-weight:500;
 }
 
+#head a{
+	text-decoration: none;
+}
+
 .right{
 	float:right;
 }
