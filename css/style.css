@@ -68,16 +68,16 @@ body{
 
 #head{
 	background-color: rgb(58,63,67);
-	height:200px;
+	padding-bottom: 4%;	
 }
 
 #intro{
 	background-color: rgb(36,39,49);
-	height:250px;
+	padding-bottom: 2%;
 }
 
 #projects{
-	height:500px;
+	margin-top:30%;
 }
 
 #hello{
