@@ -2,6 +2,7 @@ body{
 	font-family: "Neue Helvetica","Helvetica";
 	background-color: rgb(46,104,166);
 	color: rgb(232,233,232);
+	margin: 0;
 }
 
 .img-circular{
@@ -77,9 +78,26 @@ body{
 }
 
 #projects{
-	margin-top:30%;
+	margin: 0;
 }
 
 #hello{
 	font-size: 20px;
+}
+
+#butlr{
+	font-size: 2em;
+	font-family:'Roboto-Thin';
+	text-align: center;
+}
+
+#Larynx{
+	font-size:2em;
+	font-family: 'Roboto-Thin';
+	text-align: center;
+}
+
+@font-face {
+    font-family: Roboto-Thin;
+    src: local(Roboto-Thin), url('fonts/Roboto-Thin.ttf') format('opentype');
 }
